@@ -1,1 +1,17 @@
-theme: jekyll-theme-modernist
+# Site settings
+title: AI Blog
+description: >
+    AI
+author: Alex Iero
+email: youemail@gmail.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://ierono47.github.io" # the base hostname & protocol for your site
+twitter_username: ieroNo47
+github_username:  ieroNo47
+
+# Build settings
+include: [_pages]
+markdown: kramdown
+permalink: /:year/:month/:title
+sass:
+    style: compressed
