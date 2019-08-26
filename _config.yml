@@ -1,7 +1,7 @@
 # Site settings
-title: AI Blog
+title: A.I. Blog
 description: >
-    AI
+    A.I. Blog
 author: Alex Iero
 email: youemail@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
