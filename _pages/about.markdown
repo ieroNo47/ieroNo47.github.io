@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-- About [link1][l1]
-- About [link2][l2]
+Personal Blog
 
-[l1]: https://google.com
-[l2]: https://twitter.com
+**Theme:** [Butane Jekyll Theme][theme_link]
+
+[theme_link]: https://github.com/alexcarpenter/butane-jekyll-theme
