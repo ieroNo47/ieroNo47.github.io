@@ -1,24 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A.I.</title>
-    <link>https://ierono47.github.io/</link>
-    <description>Recent content on A.I.</description>
+    <title>test on A.I.</title>
+    <link>https://ierono47.github.io/tags/test/</link>
+    <description>Recent content in test on A.I.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 23 Jun 2020 18:12:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2020 18:11:10 +0000</lastBuildDate>
     
-	<atom:link href="https://ierono47.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ierono47.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Yap</title>
-      <link>https://ierono47.github.io/posts/yap/</link>
-      <pubDate>Tue, 23 Jun 2020 18:12:16 +0000</pubDate>
-      
-      <guid>https://ierono47.github.io/posts/yap/</guid>
-      <description>print(&amp;#34;OK&amp;#34;) </description>
-    </item>
     
     <item>
       <title>2nd Post</title>
