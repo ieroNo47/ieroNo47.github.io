@@ -6,10 +6,29 @@
     <description>Recent content on A.I.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Tue, 23 Jun 2020 18:12:16 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2020 12:04:53 +0000</lastBuildDate>
     
 	<atom:link href="https://ierono47.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>About</title>
+      <link>https://ierono47.github.io/about/</link>
+      <pubDate>Sun, 06 Sep 2020 12:13:22 +0000</pubDate>
+      
+      <guid>https://ierono47.github.io/about/</guid>
+      <description>My About page.</description>
+    </item>
+    
+    <item>
+      <title>Workflow Test</title>
+      <link>https://ierono47.github.io/posts/workflow-test/</link>
+      <pubDate>Sun, 06 Sep 2020 12:04:53 +0000</pubDate>
+      
+      <guid>https://ierono47.github.io/posts/workflow-test/</guid>
+      <description>Some text.
+!#/bin/bash echo &amp;#34;Test&amp;#34; </description>
+    </item>
     
     <item>
       <title>Yap</title>
