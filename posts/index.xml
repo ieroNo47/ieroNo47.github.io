@@ -15,12 +15,17 @@
 			
 			<guid>https://ierono47.github.io/posts/workflow-test/</guid>
 			<description>Some text.
-!#/bin/bash echo &amp;#34;Test&amp;#34; </description>
+!#/bin/bash echo &amp;#34;Test&amp;#34; More text, maybe a burger? 🍔
+Some laughter? 😂
+😄 , 🏠</description>
 			<content type="html"><![CDATA[<p>Some text.</p>
 <div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">!#/bin/bash
 
 <span class="nb">echo</span> <span class="s2">&#34;Test&#34;</span>
-</code></pre></div>]]></content>
+</code></pre></div><p>More text, maybe a burger? 🍔</p>
+<p>Some laughter? 😂</p>
+<p>😄 , 🏠</p>
+]]></content>
 		</item>
 		
 		<item>
